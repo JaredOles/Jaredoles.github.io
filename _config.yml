@@ -49,21 +49,13 @@ skills:
   - category: 3D Modeling and Rendering
     tools:
     - Solidworks
-    - Siemens NX
-    - Rhino
-    - Visualize
-    - Keyshot  
+    - Visualize 
   - category: Prototyping
     tools:
     - SLA
     - CNC
     - FDM
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
     - Standard Workshop Tools
-    - Welding
     - Soldering
   - category: Design Standards / Practices
     tools:
