@@ -15,4 +15,7 @@ skills:
 
 main-image: /Lab.jpg
 ---
+
+<p>PAGE URL: {{ page.url }}</p>
+<p>BASE URL: {{ page.url | remove: 'index' | remove: '.html' }}</p>
 {% include image-gallery.html images="Lab.jpg, Reach_Fixture.jpg" height="400" %}
