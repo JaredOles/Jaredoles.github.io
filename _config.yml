@@ -15,10 +15,10 @@ title: Jared Oles's Portfolio # This is what shows up in the tab of the browser
 name: Jared Oles
 headline:
 description: >- # dont remove this line. this will ignore all new lines until the next section
- A Mechanical Design Engineer specializing in fixture design, product design, and developing practical, production-ready solutions.
- I’m driven by a commitment to quality and take pride in delivering reliable solutions that work well for everyone downstream who builds with, tests with, or uses them.
- I thrive in collaborative, cross-functional environments and enjoy being involved throughout the entire process, from developing an initial concept to bringing an idea to reality.
- I enjoy the challenge of turning real-world problems into simple, effective designs and solutions, and I’m always looking for ways to make the end result better.
+ A Mechanical Design Engineer specializing in fixture design, mechanical design, and product development.
+ I’m driven by a commitment to quality and take pride in delivering functional, reliable designs.
+ I thrive in collaborative, cross-functional environments and enjoy being involved throughout the entire process; from an initial concept to reality.
+ I enjoy the challenge of turning real-world problems into simple, effective solutions, and I’ve been fortunate enough to do that alongside some incredibly talented individuals.
  The projects below are a reflection of that work.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
@@ -83,8 +83,8 @@ colors: # this is the basic theme
   border: "#ddd"
   link: "#3a6c8e"
   highlight: "#284B63"
-  background: "#EEF0EB"
-  light_background: "#EEF0EB"
+  background: "#F4F9E9"
+  light_background: "#F4F9E9"
 
 # A few examples. 
 basic theme:
