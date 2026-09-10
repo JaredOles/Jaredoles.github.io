@@ -11,4 +11,4 @@ skills:
 
 main-image: /Lab.jpg
 ---
-{% include image-gallery.html images="Sky_WithCable_White.png" height="400" %}
+{% include image-gallery.html images= "Sky_WithCable_White.png" height="400" %}
