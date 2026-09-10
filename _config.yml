@@ -15,10 +15,12 @@ title: Jared Oles's Portfolio # This is what shows up in the tab of the browser
 name: Jared Oles
 headline:
 description: >- # dont remove this line. this will ignore all new lines until the next section
- A Lead Product Design Engineer specializing in mechanical design, industrial design, and product development. 
- I love collaborating with cross-functional teams to bring innovative concepts to life; from initial ideation to production-ready solutions.
- I'm very proud of the products I've been able to help contribute to, and they couldn't have come to life without the immense amount of talented individuals I've been lucky enough to be surrounded by.
- Please explore this page to learn more about these projects.
+ A Mechanical Design Engineer specializing in fixture design, product design, and developing practical, production-ready solutions.
+I’m driven by a commitment to quality and take pride in delivering reliable solutions that work well for everyone downstream who builds with, tests with, or uses them.
+I thrive in collaborative, cross-functional environments and enjoy being involved throughout the entire process, from developing an initial concept to bringing an idea to reality.
+I enjoy the challenge of turning real-world problems into simple, effective designs and solutions, and I’m always looking for ways to make the end result better.
+The projects below are a reflection of that work.
+
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: /assets/profile-picture/Kyle_Avatar.jpg
