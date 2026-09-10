@@ -79,12 +79,12 @@ formspree-key: mjgknvpp
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
-  text: "#1a1c20"
-  border: "#ddd"
+  text: "#153243"
+  border: "#284B63"
   link: "#4a76ee"
   highlight: "#C9FBFF"
-  background: "#040F0F"
-  light_background: "##57737A"
+  background: "#B4B8AB"
+  light_background: "#F4F9E9"
 
 # A few examples. 
 basic theme:
