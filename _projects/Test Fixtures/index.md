@@ -1,17 +1,13 @@
 ---
 layout: post
-title: Dash
-description: Dash is a compact, easy-to-use cell signal booster designed for commuters and drivers that need reliable connectivity on their everyday trips. Integrated with Qi-charging technology, it magnetically attaches to the back of your device so you can charge your phone while getting the best signal possible. 
+title: Test Fixtures
+description: This is a collection of test fixtures I have created to simplify, and standardize the testing process for more reliable testing.
 skills: 
-  - Injection Molding
-  - Ultrasonic Welding
-  - DFM
-  - Particle Vapor Deposition
-  - Flow Analysis
-  - Cable Management
-  - Overmolding and Soft Touch Fabrication
-  - Pad Printing
-  - Heat Staking
+  - 3D Modeling
+  - Tolerance Stackup
+  - Reliability and Repeatability
+  - 3D Printing
+  - CNC and G-Code Formulation
 
 main-image: /Dash Word Background.jpg
 ---
