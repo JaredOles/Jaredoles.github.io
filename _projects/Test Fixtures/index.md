@@ -11,4 +11,4 @@ skills:
 
 main-image: /Lab.jpg
 ---
-{% include image-gallery.html images="Reach_Test_Fixture_Demo.png" height="400" %}
+{% include image-gallery.html images="Reach_Fixture.jpg" height="400" %}
