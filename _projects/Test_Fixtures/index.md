@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Test Fixtures
-description: When cell service ends, satellite service begins. introducing sky, the worlds first satellite booster specifically designed for your car. finally, the Sky is the limit.
+description: This is a collection of test fixtures I have created to simplify, and standardize the testing process for more reliable testing.
 skills: 
   - 3D Modeling
+  - Reliability and Repeatability
   - CNC and G-Code Formulation
   - 3D Printing
   - Soldering
-  - Stackup
+  - Tolerance Stack-up
 
 main-image: /Lab.jpg
 ---
