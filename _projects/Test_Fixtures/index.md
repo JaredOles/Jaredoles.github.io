@@ -9,6 +9,6 @@ skills:
   - Soldering
   - Stackup
 
-main-image: /WeBoost Sky Background Image.png
+main-image: /Lab.jpg
 ---
-{% include image-gallery.html images="Sky_Ortho_White.png, Sky_Side_White.png, Sky_WithCable_White.png" height="400" %}
+{% include image-gallery.html images="ReachDemo.jpg" height="400" %}
