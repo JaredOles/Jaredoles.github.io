@@ -81,10 +81,10 @@ formspree-key: mjgknvpp
 colors: # this is the basic theme
   text: "#153243"
   border: "#284B63"
-  link: "#4a76ee"
-  highlight: "#C9FBFF"
+  link: "#284B63"
+  highlight: "#284B63"
   background: "#B4B8AB"
-  light_background: "#F4F9E9"
+  light_background: "#EEF0EB"
 
 # A few examples. 
 basic theme:
